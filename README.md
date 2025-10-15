@@ -14,6 +14,25 @@ A full‑stack sign language and gesture detection app. The backend (Flask + Ten
 - Text‑to‑speech for detected gestures
 - Ready‑to‑use React frontend wired to the backend APIs
 
+## Screenshots
+
+### Application Interface
+
+<div align="center">
+  <img src="Frontend/src/assets/Screenshot (4).png" alt="Screenshot 4" width="800"/>
+  <p><em>Figure 1: Main Interface</em></p>
+</div>
+
+<div align="center">
+  <img src="Frontend/src/assets/Screenshot (5).png" alt="Screenshot 5" width="800"/>
+  <p><em>Figure 2: Gesture Detection in Action</em></p>
+</div>
+
+<div align="center">
+  <img src="Frontend/src/assets/Screenshot (6).png" alt="Screenshot 6" width="800"/>
+  <p><em>Figure 3: Live Demo View</em></p>
+</div>
+
 ## Folder structure
 
 - `Backend/` — Flask app and REST endpoints (`backend.py`)
@@ -140,6 +159,6 @@ This project is licensed under the terms in `LICENSE.txt`.
 
 ## Credits
 
-- Team:Ananda Rimal, Karan Bista, Nabin Kalel
+- Team: Ananda Rimal, Karan Bista, Nabin Kalel
 - Special thanks: Adarsha Rimal — guidance and dataset support
 - Owner/Maintainer: Ananda Rimal
