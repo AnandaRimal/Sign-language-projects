@@ -140,6 +140,6 @@ This project is licensed under the terms in `LICENSE.txt`.
 
 ## Credits
 
-- Team: Karan Bista, Nabin Kalel
+- Team:Ananda Rimal, Karan Bista, Nabin Kalel
 - Special thanks: Adarsha Rimal — guidance and dataset support
 - Owner/Maintainer: Ananda Rimal
