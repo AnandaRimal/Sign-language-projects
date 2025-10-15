@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv
+venv/
+ENV/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Large model files (keep locally, not in repo)
+yolo_model_training/yolov8l.pt
+
+# OS
+.DS_Store
+Thumbs.db
